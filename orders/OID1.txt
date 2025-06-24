@@ -1,0 +1,7 @@
+Order #OID1:
+	- Created at: 22/03/2025
+	- Customer: Nguyen An
+	- Seller: Nhan vien A1
+	- List of items:
+		Lily: 10.200 x 20 = 204.000
+	- Total cost: 204.000
